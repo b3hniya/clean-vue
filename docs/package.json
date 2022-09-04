@@ -1,0 +1,19 @@
+{
+  "name": "clean-vue",
+  "version": "0.0.1",
+  "description": "Well tailored vue boilerplate. ",
+  "main": "index.js",
+  "authors": {
+    "name": "b3hniya",
+    "email": ""
+  },
+  "repository": "/clean-vue",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
